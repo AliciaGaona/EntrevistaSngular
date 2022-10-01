@@ -1,3 +1,1 @@
 # EntrevistaSngular
-
-init
